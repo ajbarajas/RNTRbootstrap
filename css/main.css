@@ -1,0 +1,97 @@
+body {
+ 	font-family: 'Josefin slab', serif;
+ 	
+
+ }
+
+ .jumbotron {
+ 	background: url('../img/apartment.jpg') no-repeat;
+ 	
+ 	color: #ff99cc;
+ 	padding-bottom: 200px;
+ 	padding-top: 20px;
+ }
+
+ .jumbotron .container {
+ 	margin-left: 20px;
+ }
+
+ .jumbotron h1 {
+ 	font-size: 150px;
+ 	font-weight: 600;
+ }
+
+ h1 small {
+ 	color:#ff99cc;
+ 	font-size: 50px;
+ }
+
+ .btn-default {
+ 	background-color: #ff99cc;
+ }
+
+ .jumbotron .col-lg-6 {
+ 	margin-left: 35%;
+ 	margin-top: 125px;
+ }
+
+ #neighborhoods {
+ 	text-align: center;
+ 	background-color: rgba(1,1,1,.1);
+ 	margin-top: 40px;
+ 	margin-bottom: 40px
+ }
+
+ #user {
+ 	text-align: center;
+ 	background-color: rgba(1,1,1,.7);
+ 	color: white;
+ 	margin-top: 15px;
+ 	margin-bottom: 30px;
+ 	margin-right: 30px;
+ 	padding: 20px;
+ 	padding-bottom: 70px;	
+ }
+
+ /*Neighbordood section background images*/
+
+ .highlands {
+ 	background: url('../img/highlands.jpg') no-repeat;
+ }
+
+ .germantown {
+ 	background: url('../img/germantown.jpg') no-repeat;
+ }
+
+ .crescenthill {
+ 	background: url('../img/crescenthill2.jpg') no-repeat;
+ }
+
+ .oldlouisville {
+ 	background: url('../img/oldlouisville.jpg') no-repeat;	
+ }
+
+ .downtown {
+ 	background: url('../img/downtown.jpg') no-repeat;
+ }
+
+ .search {
+ 	background: url('../img/butchertown.jpg') no-repeat;
+ }
+
+ div[class^="nh-image"] {
+ 	padding-top: 200px;
+ 	padding-bottom: 200px;
+ 	text-align: center;
+ 	color: white;
+ }
+
+
+
+
+
+
+
+
+
+
