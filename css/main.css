@@ -53,6 +53,7 @@ body {
  	padding-bottom: 70px;	
  }
 
+
  /*Neighbordood section background images*/
 
  .highlands {
@@ -86,6 +87,12 @@ body {
  	color: white;
  }
 
+  @media screen and (min-width: 1200px) {
+ 	.owner{
+ 		margin-left: 0px;
+ 	}
+ }
+
  @media screen and (max-width: 994px) {
  	.jumbotron h1 {
  		font-size: 80px;
@@ -103,6 +110,16 @@ body {
 
  	h1 small {
  		font-size: 25px;
+ 	}
+ }
+
+  @media screen and (max-width: 400px) {
+ 	.jumbotron h1 {
+ 		font-size: 35px;
+ 	}
+
+ 	h1 small {
+ 		font-size: 15px;
  	}
  }
 
